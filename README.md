@@ -28,7 +28,7 @@ While we can build React applications from scratch, it’s generally recommended
 
 One of the most recommended frameworks is Next.js, which we’ll use later in the quarter for its many features and powerful functionality.
 
-For now, we’ll start with Vite—a lightweight build tool that lets us spin up React applications quickly.
+For now, we’ll start with Vite a lightweight build tool that lets us spin up React applications quickly.
 
 ### Imperative vs Declarative Programming
 
