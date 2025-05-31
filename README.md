@@ -54,7 +54,7 @@ With **declarative programming**, we can be a bit more abstract. We describe _wh
 
 - Make a sandwich
 
-### JXS
+### JSX
 
 JSX is a syntax extension for JavaScript that lets us write HTML-like content directly inside JavaScript files. React takes that JSX and eventually translates it into real DOM elements.
 
@@ -134,7 +134,7 @@ export default App
 Below is an example for the `AboutMe.jsx` file:
 
 ```
-function About() {
+function AboutMe() {
   return (
     <>
 
@@ -142,7 +142,7 @@ function About() {
   )
 }
 
-export default About
+export default AboutMe
 
 ```
 
@@ -154,7 +154,7 @@ export default About
 Below is an example for the `AboutMe.jsx` component:
 
 ```
-function About() {
+function AboutMe() {
   return (
     <div>
     <h2>Ixius Procopios</h2>
@@ -164,7 +164,7 @@ function About() {
   )
 }
 
-export default About
+export default AboutMe
 
 ```
 
