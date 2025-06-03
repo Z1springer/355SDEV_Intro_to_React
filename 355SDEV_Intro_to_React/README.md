@@ -54,7 +54,7 @@ With **declarative programming**, we can be a bit more abstract. We describe _wh
 
 - Make a sandwich
 
-### JXS
+### JSX
 
 JSX is a syntax extension for JavaScript that lets us write HTML-like content directly inside JavaScript files. React takes that JSX and eventually translates it into real DOM elements.
 
