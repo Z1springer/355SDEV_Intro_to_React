@@ -28,7 +28,7 @@ While we can build React applications from scratch, it’s generally recommended
 
 One of the most recommended frameworks is Next.js, which we’ll use later in the quarter for its many features and powerful functionality.
 
-For now, we’ll start with Vite—a lightweight build tool that lets us spin up React applications quickly.
+For now, we’ll start with Vite a lightweight build tool that lets us spin up React applications quickly.
 
 ### Imperative vs Declarative Programming
 
@@ -134,7 +134,7 @@ export default App
 Below is an example for the `AboutMe.jsx` file:
 
 ```
-function About() {
+function AboutMe() {
   return (
     <>
 
@@ -142,7 +142,7 @@ function About() {
   )
 }
 
-export default About
+export default AboutMe
 
 ```
 
@@ -154,7 +154,7 @@ export default About
 Below is an example for the `AboutMe.jsx` component:
 
 ```
-function About() {
+function AboutMe() {
   return (
     <div>
     <h2>Ixius Procopios</h2>
@@ -164,7 +164,7 @@ function About() {
   )
 }
 
-export default About
+export default AboutMe
 
 ```
 
